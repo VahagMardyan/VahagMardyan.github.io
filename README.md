@@ -19,4 +19,4 @@ Welcome to my personal portfolio website repository!
 * Contact info & downloadable CV
 
 ## License
-© Design: <a href="https://html5up.net">HTML5 UP</a>
+© Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a>
