@@ -17,3 +17,6 @@ Welcome to my personal portfolio website repository!
 * Overview of my Data Science, Machine Learning, and Hardware/EDA skills
 * Showcase of selected GitHub projects with direct repository links
 * Contact info & downloadable CV
+
+## License
+© Design: <a href="https://html5up.net">HTML5 UP</a>
